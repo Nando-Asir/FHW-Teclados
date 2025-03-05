@@ -1,4 +1,4 @@
-## 🗒️ Características Principales
+## 🗒️ [Características Principales](README.md)
 
 - Permite la introducción de texto y comandos.
 - Diseño estándar con teclas alfabéticas, numéricas y de función.
