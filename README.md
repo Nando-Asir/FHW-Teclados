@@ -1,6 +1,6 @@
 # FHW-Teclados
 
-## 1. [Definición del períférico](definicion.md)
+## 1. [Definición del períférico](descripcion.md)
 
 ## 2. [Características principales](caracteristicas.md)
 - Permite la introducción de texto y comandos
