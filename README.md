@@ -18,7 +18,5 @@
 ## 👁️‍🗨️ [6. Referencias](referencias.md)
 
 ---
-## LICENCIA
-Este trabajo se publica bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0).
-
 ## AUTORES
+- [Nando-Asir](https://github.com/Nando-Asir)
