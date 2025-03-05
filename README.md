@@ -1,16 +1,14 @@
-# FHW-Teclados
+# ⌨️ FHW-Teclados
 
-## 1. [Definición del períférico](descripcion.md)
+## 1.🔠 [Definición del períférico](descripcion.md)
 
-## 2. [Características principales](caracteristicas.md)
+## 2.🗒️ [Características principales](caracteristicas.md)
 
+## 3.🌐 [Tipos](tipos.md)
 
-## 3. [Tipos](tipos.md)
+## 4.⌨️ [Ejemplos Comerciales](ejemplos_comerciales.md) 
 
-
-## 4. [Ejemplos Comerciales](ejemplos_comerciales.md) 
-
-## 5. [Conclusiones](conclusiones.md)
+## 5.💡 [Conclusiones](conclusiones.md)
 
 
 ## [REFERENCIAS](referencias.md)
