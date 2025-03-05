@@ -1,7 +1,7 @@
 ## 🌐 Tipos de Teclado
 
 ---
-### Teclados de membrana
+### Teclados de Membrana
 Los teclados de membrana son los más familiares para la mayoría de nosotros. Cada tecla está compuesta por una membrana suave que se activa al presionarla, generando la señal que aparece en la pantalla. Son silenciosos y económicos, pero su respuesta táctil puede ser menos perceptible que otros tipos.
 - Membranas planas: Estos teclados utilizan una capa de membrana para registrar las pulsaciones de las teclas. Son comunes en portátiles y teclados de bajo coste. Ofrecen una experiencia de escritura suave y silenciosa, pero pueden ser menos duraderos que otros tipos.
 - Membranas de interruptor de cúpula: Este tipo de teclado tiene una membrana debajo de cada tecla con una cúpula en el centro. Al presionar una tecla, la cúpula se deforma y registra la pulsación. Son más duraderos que los teclados de membranas planas y ofrecen una respuesta táctil distintiva.
