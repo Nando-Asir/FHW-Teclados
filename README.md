@@ -1,8 +1,10 @@
 # ⌨️ FHW-Teclados ⌨️
 
 ---
-<img src="img/razer.webp" alt="razer" width="900" height="400">
+<img src="img/razer.webp" alt="razer" width="1000" height="500">
+
 ---
+
 ## 1.🔠 [Definición del períférico](descripcion.md)
 
 ## 2.🗒️ [Características principales](caracteristicas.md)
