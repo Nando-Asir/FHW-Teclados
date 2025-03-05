@@ -11,7 +11,7 @@
 ## 5.💡 [Conclusiones](conclusiones.md)
 
 
-## [REFERENCIAS](referencias.md)
+## 6. [Referencias](referencias.md)
 - Ejemplos.co - Ejemplos de Periféricos de Entrada y Salida
 - Info-computer.com - Características de un teclado para escribir o trabajar en oficina
 - PcComponentes.com - Tipos de teclados y mejores modelos
