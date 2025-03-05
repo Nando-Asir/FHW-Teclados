@@ -18,5 +18,4 @@
 ## 👁️‍🗨️ [6. Referencias](referencias.md)
 
 ---
-## AUTORES
-### [Nando-Asir](https://github.com/Nando-Asir)
+## 👤 AUTOR - [Nando-Asir](https://github.com/Nando-Asir)
