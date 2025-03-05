@@ -1,7 +1,7 @@
 # ⌨️ FHW-Teclados ⌨️
 
 ---
-<p align="center"><img src="img/razer.webp" alt="razer" width="850" height="300"></p>
+<p align="center"><img src="img/razer.webp" alt="razer" width="850" height="500"></p>
 
 ---
 
