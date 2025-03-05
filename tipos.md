@@ -34,3 +34,6 @@ Utilizan tecnología capacitiva para **detectar el toque de los dedos sin necesi
 Comunes en los ordenadores portátiles, los teclados de tijera ofrecen una experiencia de *escritura más delgada y silenciosa*. Utilizan un mecanismo de tijera para activar las teclas y son ideales para la portabilidad.
 
 <p align="center"><img src="img/tijera.webp" alt="tijera" width="600" height="250"></p>
+
+---
+## ⌨️ [4. Ejemplos Comerciales](ejemplos_comerciales.md)
