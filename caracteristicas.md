@@ -13,4 +13,4 @@
 </div>
 
 ---
-## 🌐 [3. Tipos](tipos.md)
+### 🌐 [3. Tipos](tipos.md)
