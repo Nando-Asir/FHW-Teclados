@@ -10,12 +10,12 @@
 
 ---
 <div style="display: flex; justify-content: center;">
-  <img src="img/tempest_k11.webp" style="width: 50%; margin-right: 20px;">
-  <img src="img/logitech_k120.webp" style="width: 40%;">
+  <img src="img/tempest_k11.webp" style="width: 40%; margin-right: 20px;">
+  <img src="img/logitech_k120.webp" style="width: 50%;">
 </div>
 
 ---
 <div style="display: flex; justify-content: center;">
-  <img src="img/apple_magic.webp" style="width: 50%; margin-right: 20px;">
-  <img src="img/microsoft_sculpt.jpg" style="width: 40%;">
+  <img src="img/apple_magic.webp" style="width: 30%; margin-right: 20px;">
+  <img src="img/microsoft_sculpt.jpg" style="width: 50%;">
 </div>
