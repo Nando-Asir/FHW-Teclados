@@ -37,4 +37,4 @@ El teclado es un periférico esencial para la interacción entre el usuario y el
 Este trabajo se publica bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 # AUTORES
-Elaborado por [Tu nombre] con la asistencia de Perplexity AI.
+Elaborado por Fernando Duran con la asistencia de Perplexity AI.
