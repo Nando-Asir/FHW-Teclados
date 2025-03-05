@@ -16,3 +16,7 @@
   <img src="img/mini60.webp" alt="mini60" width="500" height="300">
 </figure>
 
+<div style="display: flex; justify-content: center;">
+  <img src="img/huntsmanTKL.jp" style="width: 45%; margin-right: 10px;">
+  <img src="img/mini60.webp" style="width: 45%;">
+</div>
