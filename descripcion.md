@@ -1,4 +1,4 @@
-## 🔠 Definición del Períférico
+## 🔠 [Definición del Períférico](README.md)
 ---
 <img src="img/partes_teclado.jpg" alt="teclado" width="800" heigth="500">
 
