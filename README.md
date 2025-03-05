@@ -1,5 +1,8 @@
 # ⌨️ FHW-Teclados ⌨️
 
+---
+<img src="img/razer.webp" alt="razer" width="1100" height="1000">
+---
 ## 1.🔠 [Definición del períférico](descripcion.md)
 
 ## 2.🗒️ [Características principales](caracteristicas.md)
@@ -10,8 +13,7 @@
 
 ## 5.💡 [Conclusiones](conclusiones.md)
 
-
-## 6. [Referencias](referencias.md)
+## 6.👁️‍🗨️ [Referencias](referencias.md)
 - Ejemplos.co - Ejemplos de Periféricos de Entrada y Salida
 - Info-computer.com - Características de un teclado para escribir o trabajar en oficina
 - PcComponentes.com - Tipos de teclados y mejores modelos
@@ -21,7 +23,7 @@
 - Coolmod.com - Tipos de teclado. Modelos y características
 - Info-computer.com - ¿Qué tipos de teclados existen?
 
-
+---
 ## LICENCIA
 Este trabajo se publica bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0).
 
