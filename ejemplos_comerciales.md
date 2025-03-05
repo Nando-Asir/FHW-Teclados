@@ -9,7 +9,7 @@
 | Ergonómico | Microsoft Sculpt Ergonomic Desktop | Membrana | Diseño ergonómico dividido, teclado numérico separado, conexión inalámbrica | 5 millones | 129,99 € |
 
 ---
-<div style="display: flex; align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="img/tempest_k11.webp" style="width: 40%; margin-right: 20px;">
   <img src="img/logitech_k120.webp" style="width: 40%;">
 </div>
