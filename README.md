@@ -7,7 +7,7 @@
 
 ## 🔠 [1. Definición del Períférico](descripcion.md)
 
-## 🗒️ [2. Características principales](caracteristicas.md)
+## 🗒️ [2. Características Principales](caracteristicas.md)
 
 ## 🌐 [3. Tipos](tipos.md)
 
