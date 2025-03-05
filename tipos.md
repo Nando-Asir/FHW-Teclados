@@ -1,5 +1,6 @@
 ## 🌐 Tipos de Teclado
 
+---
 ### Teclados de membrana
 Los teclados de membrana son los más familiares para la mayoría de nosotros. Cada tecla está compuesta por una membrana suave que se activa al presionarla, generando la señal que aparece en la pantalla. Son silenciosos y económicos, pero su respuesta táctil puede ser menos perceptible que otros tipos.
 - Membranas planas: Estos teclados utilizan una capa de membrana para registrar las pulsaciones de las teclas. Son comunes en portátiles y teclados de bajo coste. Ofrecen una experiencia de escritura suave y silenciosa, pero pueden ser menos duraderos que otros tipos.
@@ -16,16 +17,19 @@ Los teclados mecánicos son elegidos por los entusiastas de la escritura y los j
 
 <img src="" alt="" width="" height="" >
 
+---
 ### Teclado Ergonómico
 Diseñados para reducir la tensión en las manos y muñecas, suelen estar divididos en secciones y con una inclinación. Favorecen la comodidad y pueden ayudar a prevenir lesiones por esfuerzo repetitivo. Pueden requerir tiempo para acostumbrarse a su disposición.
 
 <img src="" alt="" width="" height="" >
 
+---
 ### Teclados Capacitivos
 Utilizan tecnología capacitiva para detectar el toque de los dedos sin necesidad de presionar las teclas. Duraderos y resistentes al polvo, ideales para entornos sucios.
 
 <img src="" alt="" width="" height="" >
 
+---
 ### Teclados de Tijera
 Comunes en los ordenadores portátiles, los teclados de tijera ofrecen una experiencia de escritura más delgada y silenciosa. Utilizan un mecanismo de tijera para activar las teclas y son ideales para la portabilidad.
 
