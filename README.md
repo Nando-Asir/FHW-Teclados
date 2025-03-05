@@ -1,7 +1,6 @@
 # FHW-Teclados
 
 ## 1. [Definición del períférico](definicion.md)
-El teclado es un dispositivo periférico de entrada que se conecta a la unidad central de procesamiento (CPU) de una computadora. Se utiliza para introducir datos y señales desde el exterior hacia la unidad de procesamiento, permitiendo al usuario comunicarse con el ordenador
 
 ## 2. [Características principales](caracteristicas.md)
 - Permite la introducción de texto y comandos
