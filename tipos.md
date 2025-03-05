@@ -36,4 +36,4 @@ Comunes en los ordenadores portátiles, los teclados de tijera ofrecen una exper
 <p align="center"><img src="img/tijera.webp" alt="tijera" width="600" height="250"></p>
 
 ---
-## ⌨️ [4. Ejemplos Comerciales](ejemplos_comerciales.md)
+### ⌨️ [4. Ejemplos Comerciales](ejemplos_comerciales.md)
