@@ -1,7 +1,7 @@
 # ⌨️ FHW-Teclados ⌨️
 
 ---
-<img src="img/razer.webp" alt="razer" width="600" height="600">
+<img src="img/razer.webp" alt="razer" width="800" height="400">
 ---
 ## 1.🔠 [Definición del períférico](descripcion.md)
 
