@@ -1,4 +1,4 @@
-## Tipos de Teclado
+## 🌐 Tipos de Teclado
 
 - Teclados de membrana: Utilizan una capa de membrana para registrar las pulsaciones. Son silenciosos y económicos.
 - Teclados mecánicos: Cada tecla tiene un interruptor individual, ofreciendo mayor durabilidad y respuesta táctil.
