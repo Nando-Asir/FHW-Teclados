@@ -1,4 +1,4 @@
-## 🌐 Tipos de Teclado
+## 🌐 [Tipos de Teclado](README.md)
 
 ---
 ### Teclados de Membrana
