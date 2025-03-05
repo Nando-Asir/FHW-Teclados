@@ -19,3 +19,6 @@
   <img src="img/apple_magic.webp" style="width: 31%; margin-right: 20px;">
   <img src="img/microsoft_sculpt.jpg" style="width: 52%;">
 </div>
+
+---
+## 💡 [5. Conclusiones](conclusiones.md)
