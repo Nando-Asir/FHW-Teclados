@@ -36,4 +36,9 @@ Comunes en los ordenadores portátiles, los teclados de tijera ofrecen una exper
 <p align="center"><img src="img/tijera.webp" alt="tijera" width="600" height="250"></p>
 
 ---
+### Teclados Custom
+Son aquellos teclados que cada usuario lo monta desde cero, personalizando cada pieza, ya sea chasis, switches, teclas, placa, etc. Son bastante caros ya que cada teclado puede ser único. Suelen ser mecánicos
+
+<p align="center"><img src="img/custom.webp" alt="custom" width="600" height="250"></p>
+---
 ### ⌨️ [4. Ejemplos Comerciales](ejemplos_comerciales.md)
